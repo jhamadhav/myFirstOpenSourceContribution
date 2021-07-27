@@ -18,7 +18,7 @@ This instance will be an exact copy where you can chance and edit the project as
 ## Step 2: Make changes
 Once the repository is in your account, you can either make changes/edit to the project directly via GitHub GUI aur choose a text editor of your choice. Using a editor is recommended.
 
-**If you are using GitHub GUI to make changes skip to step 6 and then 8**
+> **If you are using GitHub GUI to make changes skip to step 6 and then 8**
 
 ## Step 3: Download Git, VScode and set it up
 
@@ -31,7 +31,7 @@ Video on how to set it up : https://www.youtube.com/watch?v=6cB0tB-nrB0
 
 To edit it in an editor, clone it to your machine to work with it locally.
 
-To clone, click on the clone button and copy the link.
+To clone, click on the `code` button and copy the link.
 Now find the steps to open this in your editor of choice via Google and make the necessary edits!
 
 <img src="./images/contributionSteps/clone.png">
@@ -44,7 +44,9 @@ Open your VScode and press `ctrl+shift+p` to open command pallet and choose `git
 
 ## Step 6: Edit the project
 
-Once you are done, open the project and navigate to `contributorList.js` file under `Scripts` folder and add your `github profile link` and your `name`.
+Once you are done, open the project and navigate to `contributorList.js` file under `Scripts` folder
+
+Copy the below text and replace data with your `github profile link` and your `name`, add as shown in the image below
 ```
     {
         "github": "Your github profile link here",
@@ -70,11 +72,15 @@ with this you made the changes and pushed it to your forked online repository of
 
 ## Step 8: Make a pull request
 
-Now that all the changes that you have made is available in your forked repo, click `compare and pull request` > add meaningful message about what changes you made and click `create a pull request`
+Now that all the changes that you have made is available in your forked :
+
+Click `contribute`
+<img src="./images/contributionSteps/openPull.jpeg">
+
+Click `Create pull request`
+<img src="./images/contributionSteps/createPull.jpeg">
+
+Add meaningful request message denoting your changes and then click `Create pull request`
+<img src="./images/contributionSteps/createPullRequest.jpeg">
 
 with this you have successfully made your first contribution in an Open-Source projects!!!
-
-
-
-
-
