@@ -1,4 +1,8 @@
 # My First Open Source Contribution
+
+Find the project website here : https://jhamadhav.com/myFirstOpenSourceContribution <br>
+Make your own contribution and add your name here !! <br>
+
 Hi there, let me walk you on how you can make your first Open-Source Contribution using this very project.
 
 # How to contribute in this project ?
@@ -13,6 +17,8 @@ This instance will be an exact copy where you can chance and edit the project as
 
 ## Step 2: Make changes
 Once the repository is in your account, you can either make changes/edit to the project directly via GitHub GUI aur choose a text editor of your choice. Using a editor is recommended.
+
+**If you are using GitHub GUI to make changes skip to step 6 and then 8**
 
 ## Step 3: Download Git, VScode and set it up
 
@@ -52,9 +58,22 @@ Once you are done, open the project and navigate to `contributorList.js` file un
 
 Save the changes by pressing `ctrl+s`. 
 
-Then click on the github button in your vscode > click on add changes > write a commit message > click the 3 dots option button > then click push.
+Then click on the git button in your vscode > click on add changes > write a commit message > click the click icon on top to commit the changes >click the 3 dots option button > then click push.
+
+<img src="./images/contributionSteps/stageChanges.png">
+
+Now click push.
+
+<img src="./images/contributionSteps/push.png">
 
 with this you made the changes and pushed it to your forked online repository of this project.
+
+## Step 8: Make a pull request
+
+Now that all the changes that you have made is available in your forked repo, click `compare and pull request` > add meaningful message about what changes you made and click `create a pull request`
+
+with this you have successfully made your first contribution in an Open-Source projects!!!
+
 
 
 
