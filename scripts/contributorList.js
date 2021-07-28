@@ -5,6 +5,6 @@ let contributors = [
     },
      {
         "github": "https://github.com/jwalapc",
-        "name": "Jwala prasad Chorasiya"
+        "name": "Jwalapc",
     },
 ]
