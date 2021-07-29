@@ -15,10 +15,14 @@ This instance will be an exact copy where you can chance and edit the project as
 
 <img src="./images/contributionSteps/fork.png">
 
+---
+
 ## Step 2: Make changes
 Once the repository is in your account, you can either make changes/edit to the project directly via GitHub GUI aur choose a text editor of your choice. Using a editor is recommended.
 
 > **If you are using GitHub GUI to make changes skip to step 6 and then 8**
+
+---
 
 ## Step 3: Download Git, VScode and set it up
 
@@ -26,6 +30,8 @@ As we are using VScode editor for editing the code, download the following. <br>
 Git : https://git-scm.com/downloads <br>
 VScode : https://code.visualstudio.com/download <br>
 Video on how to set it up : https://www.youtube.com/watch?v=6cB0tB-nrB0
+
+---
 
 ## Step 4: Clone the repository
 
@@ -36,11 +42,15 @@ Now find the steps to open this in your editor of choice via Google and make the
 
 <img src="./images/contributionSteps/clone.png">
 
+---
+
 ## Step 5: Open Vscode and paste the clone link
 
 Open your VScode and press `ctrl+shift+p` to open command pallet and choose `git clone` command, now paste the link that you copied from the github repo and choose a folder to store this repo. 
 
 <img src="./images/contributionSteps/vscodeClone.png">
+
+---
 
 ## Step 6: Edit the project
 
@@ -56,6 +66,8 @@ Copy the below text and replace data with your `github profile link` and your `n
 
 <img src="./images/contributionSteps/fileEdit.png">
 
+---
+
 ## Step 7: Save and Push the changes
 
 Save the changes by pressing `ctrl+s`. 
@@ -69,6 +81,8 @@ Now click push.
 <img src="./images/contributionSteps/push.png">
 
 with this you made the changes and pushed it to your forked online repository of this project.
+
+---
 
 ## Step 8: Make a pull request
 
