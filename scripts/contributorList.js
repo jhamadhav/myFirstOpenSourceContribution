@@ -15,5 +15,10 @@ let contributors = [
     {
         "github": "https://github.com/krishna050702",
         "name": "Krishna Mundada "
+    },
+    {
+        "github": "https://github.com/SolankiDhruvraj",
+        "name": "Dhruvraj Solanki "
     }
+
 ]
