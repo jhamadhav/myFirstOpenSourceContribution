@@ -8,7 +8,16 @@ let contributors = [
         "name": "Jwala "
     },
     {
-        "github": "https://github.com/RudraPratik30",
+      "github": "https://github.com/RndmCodeGuy20",
+      "name": "Shantanu Mane"
+    }
+    ,
+    {
+        "github": "https://github.com/krishna050702",
+        "name": "Krishna Mundada "
+    },
+    {
+      "github": "https://github.com/RudraPratik30",
         "name": "Pratik Agrawal"
     }
 ]
