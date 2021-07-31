@@ -20,8 +20,12 @@ let contributors = [
       "github": "https://github.com/RudraPratik30",
         "name": "Pratik Agrawal"
     },
-  {
+    {
     "github": "https://github.com/anushkakhandelwal18",
         "name": "Anushka Khandelwal "
-  }
+    },
+    {
+        "github": "https://github.com/SolankiDhruvraj",
+        "name": "Dhruvraj Solanki "
+    },
 ]
