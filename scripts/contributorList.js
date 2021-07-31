@@ -11,4 +11,9 @@ let contributors = [
       "github": "https://github.com/RndmCodeGuy20",
       "name": "Shantanu Mane"
     }
+    ,
+    {
+        "github": "https://github.com/krishna050702",
+        "name": "Krishna Mundada "
+    }
 ]
