@@ -4,7 +4,11 @@ let contributors = [
         "name": "Madhav Jha"
     },
     {
-        "github": "https://github.com/RndmCodeGuy20",
-        "name": "Shantanu Mane"
+        "github": "https://github.com/jwalapc",
+        "name": "Jwala "
+    },
+    {
+      "github": "https://github.com/RndmCodeGuy20",
+      "name": "Shantanu Mane"
     }
 ]
