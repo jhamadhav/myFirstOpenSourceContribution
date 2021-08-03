@@ -32,4 +32,8 @@ let contributors = [
      "github": "https://github.com/khushiatcode",
       "name": "Khushi Savaliya"
     },
+    {
+        "github": "https://https://github.com/Dev-W32",
+         "name": "Devesh Wadhwani"
+    },
 ]
