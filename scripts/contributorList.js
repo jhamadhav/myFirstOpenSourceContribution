@@ -36,8 +36,4 @@ let contributors = [
         "github": "https://https://github.com/Dev-W32",
          "name": "Devesh Wadhwani"
     },
-    {
-        "github": "https://https://github.com/jwalapc",
-         "name": "Jwala Chorasiya"
-    },
 ]
