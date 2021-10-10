@@ -37,10 +37,6 @@ let contributors = [
          "name": "Devesh Wadhwani"
     },
     {
-        "github": "https://https://github.com/jwalapc",
-         "name": "Jwala Chorasiya"
-    },
-    {
         "github": "https://https://github.com/RamGhumaliya",
          "name": "RamGhumaliya"
     },
