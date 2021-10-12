@@ -48,4 +48,8 @@ let contributors = [
         "github": "https://https://github.com/mk-rana",
          "name": "Mukul Rana"
     },
+    {
+        "github": "https://https://github.com/Aakashmau",
+         "name": "Aakash Maurya"
+    },
 ]
