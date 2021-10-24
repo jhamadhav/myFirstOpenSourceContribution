@@ -54,6 +54,6 @@ let contributors = [
     },
     {
         "github": "https://https://github.com/ritika-saha",
-         "name": "Ritika Saha"
+         "name": "Ritika Saha "
     },
 ]
