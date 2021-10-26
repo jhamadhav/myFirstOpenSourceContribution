@@ -54,6 +54,6 @@ let contributors = [
     },
     {
         "github": "https://https://github.com/CT0410",
-         "name": "chetana Thorat"
+         "name": "Chetana Thorat"
     },
 ]
