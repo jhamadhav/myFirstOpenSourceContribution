@@ -53,7 +53,7 @@ let contributors = [
          "name": "Aakash Maurya"
     },
     {
-        "github": "https://github.com/CT0410",
+        "github": "https://https//github.com/CT0410",
          "name": "Chetana Thorat"
     },
 ]
