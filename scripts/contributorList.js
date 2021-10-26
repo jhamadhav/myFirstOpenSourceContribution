@@ -53,8 +53,8 @@ let contributors = [
          "name": "Aakash Maurya"
     },
     {
-        "github": "https://https://github.com/V-i-B-E",
-         "name": "Prathamesh Shelar"
+        "github": "https://https//github.com/CT0410",
+         "name": "Chetana Thorat"
     },
     {
         "github": "https://https://github.com/SamPanpaliya",
