@@ -62,4 +62,9 @@ let contributors = [
          "name": "Samiksha Panpaliya"
 
     },
+    {
+        "github": "https://https://github.com/KIRTISINHA11",
+         "name": "Kirti Sinha"
+
+    },
 ]
