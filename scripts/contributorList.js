@@ -53,7 +53,33 @@ let contributors = [
          "name": "Aakash Maurya"
     },
     {
-        "github": "https://https://github.com/CT0410",
+        "github": "https://github.com/CT0410",
          "name": "chetana Thorat"
     },
+    {
+        "github": "https://https://github.com/SamPanpaliya",
+         "name": "Samiksha Panpaliya"
+
+    },
+    {
+        "github": "https://https://github.com/KIRTISINHA11",
+         "name": "Kirti Sinha"
+
+    },
+    {
+        "github": "https://github.com/JLambertazzo",
+        "name": "Julien Lambert"
+    },
+    {
+        "github": "https://github.com/Priyanshu174",
+        "name": "Priyanshu Sharma"
+    },
+    {
+        "github": "https://github.com/adi7yashah",
+        "name": "Aditya shah"
+    },
+  {
+        "github": "https://github.com/Priyanshu174",
+        "name": "Somya Gupta"
+    }
 ]
