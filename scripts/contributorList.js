@@ -76,6 +76,10 @@ let contributors = [
         "name": "Priyanshu Sharma"
     },
     {
+        "github": "https://github.com/adi7yashah",
+        "name": "Aditya shah"
+    },
+  {
         "github": "https://github.com/Priyanshu174",
         "name": "Somya Gupta"
     }
