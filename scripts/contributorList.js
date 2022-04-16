@@ -53,9 +53,8 @@ let contributors = [
          "name": "Aakash Maurya"
     },
     {
-
-        "github": "https://https://github.com/CT0410",
-         "name": "Chetana Thorat"
+        "github": "https://github.com/CT0410",
+         "name": "chetana Thorat"
     },
     {
         "github": "https://https://github.com/SamPanpaliya",
