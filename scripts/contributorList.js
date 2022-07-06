@@ -81,5 +81,9 @@ let contributors = [
   {
         "github": "https://github.com/Priyanshu174",
         "name": "Somya Gupta"
+    },
+    {
+        "github": "https://github.com/kbala97",
+        "name": "Krishna Bala"
     }
 ]
