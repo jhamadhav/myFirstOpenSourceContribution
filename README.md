@@ -98,3 +98,10 @@ Add meaningful request message denoting your changes and then click `Create pull
 <img src="./images/contributionSteps/createPullRequest.jpeg">
 
 with this you have successfully made your first contribution in an Open-Source projects!!!
+
+## Contributors
+<a href="https://github.com/jhamadhav/myFirstOpenSourceContribution/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jhamadhav/myFirstOpenSourceContribution" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
