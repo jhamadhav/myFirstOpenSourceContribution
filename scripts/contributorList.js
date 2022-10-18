@@ -93,9 +93,9 @@ let contributors = [
     {
         "github": "https://github.com/kbala97",
         "name": "Gunjan Rathore"
-    }
+    },
     {
         "github": "https://github.com/kbala97",
-        "name": "Aashwin"
+        "name": "Gunjan Rathore"
     }
 ]
