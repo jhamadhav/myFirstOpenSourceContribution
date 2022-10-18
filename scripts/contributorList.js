@@ -100,6 +100,6 @@ let contributors = [
     },
     {
         "github": "https://github.com/kbala97",
-        "name": "Aashwin Raj"
+        "name": "Aashwin"
     }
 ]
