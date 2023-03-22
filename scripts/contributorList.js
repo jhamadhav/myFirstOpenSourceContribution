@@ -8,8 +8,8 @@ let contributors = [
         "name": "Jwala "
     },
     {
-      "github": "https://github.com/RndmCodeGuy20",
-      "name": "Shantanu Mane"
+        "github": "https://github.com/RndmCodeGuy20",
+        "name": "Shantanu Mane"
     }
     ,
     {
@@ -17,11 +17,11 @@ let contributors = [
         "name": "Krishna Mundada "
     },
     {
-      "github": "https://github.com/RudraPratik30",
+        "github": "https://github.com/RudraPratik30",
         "name": "Pratik Agrawal"
     },
     {
-    "github": "https://github.com/anushkakhandelwal18",
+        "github": "https://github.com/anushkakhandelwal18",
         "name": "Anushka Khandelwal "
     },
     {
@@ -29,41 +29,41 @@ let contributors = [
         "name": "Dhruvraj Solanki "
     },
     {
-     "github": "https://github.com/khushiatcode",
-      "name": "Khushi Savaliya"
+        "github": "https://github.com/khushiatcode",
+        "name": "Khushi Savaliya"
     },
     {
         "github": "https://https://github.com/Dev-W32",
-         "name": "Devesh Wadhwani"
+        "name": "Devesh Wadhwani"
     },
     {
         "github": "https://https://github.com/RamGhumaliya",
-         "name": "RamGhumaliya"
+        "name": "RamGhumaliya"
     },
     {
         "github": "https://https://github.com/jwalapc",
-         "name": "JWALA CHORASIYA"
+        "name": "JWALA CHORASIYA"
     },
     {
         "github": "https://https://github.com/mk-rana",
-         "name": "Mukul Rana"
+        "name": "Mukul Rana"
     },
     {
         "github": "https://https://github.com/Aakashmau",
-         "name": "Aakash Maurya"
+        "name": "Aakash Maurya"
     },
     {
         "github": "https://github.com/CT0410",
-         "name": "chetana Thorat"
+        "name": "chetana Thorat"
     },
     {
         "github": "https://https://github.com/SamPanpaliya",
-         "name": "Samiksha Panpaliya"
+        "name": "Samiksha Panpaliya"
 
     },
     {
         "github": "https://https://github.com/KIRTISINHA11",
-         "name": "Kirti Sinha"
+        "name": "Kirti Sinha"
 
     },
     {
@@ -78,7 +78,7 @@ let contributors = [
         "github": "https://github.com/adi7yashah",
         "name": "Aditya shah"
     },
-  {
+    {
         "github": "https://github.com/Priyanshu174",
         "name": "Somya Gupta"
     },
@@ -97,5 +97,14 @@ let contributors = [
     {
         "github": "https://github.com/techfreakSahil",
         "name": "MD Sahil Khan"
+    },
+    {
+        "github": "https://github.com/Prabhat-022",
+        "name": "Prabhat Kumar"
+    }
+    ,
+    {
+        "github": "https://github.com/harshitha1201",
+        "name": "Harshitha"
     }
 ]
