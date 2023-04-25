@@ -109,7 +109,7 @@ let contributors = [
     }
     ,
     {
-        "github": "https://github.com/jsonn32",
-        "name": "json"
+        "github": "https://github.com/jsonn32",  
+        "name": "json32"
     },
 ]
