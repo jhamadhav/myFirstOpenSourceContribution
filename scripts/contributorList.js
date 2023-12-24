@@ -1,4 +1,8 @@
 let contributors = [
+    { 
+      "github": "https://github.com/Nishant-Khatri",
+      "name":"Nishant Khatri"
+    },
     {
         "github": "https://github.com/jhamadhav",
         "name": "Madhav Jha"
