@@ -111,6 +111,10 @@ let contributors = [
         "github": "https://github.com/akash7233",
         "name": "Akash Yadav"
     }
+    ,{
+        "github": "https://github.com/doghog125",
+        "name": "Cam B"
+    }
     ,
     {
         "github": "https://github.com/Imtiaz42",
