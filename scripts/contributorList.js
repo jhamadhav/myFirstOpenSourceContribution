@@ -112,4 +112,9 @@ let contributors = [
         "name": "Akash Yadav"
     }
     ,
+    {
+        "github": "https://github.com/Imtiaz42",
+        "name": "Imtiaz"
+    }
+    ,
 ]
