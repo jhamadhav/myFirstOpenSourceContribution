@@ -127,7 +127,7 @@ let contributors = [
     }
     ,
     {
-        "github": "https://github.com/UTRINO-UTKARSH",
-        "name": "Utkarsh"
+        "github":"https://github.com/UTRINO-UTKARSH",
+        "name":"Utkarsh"
     },
 ]
