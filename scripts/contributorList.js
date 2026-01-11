@@ -126,4 +126,8 @@ let contributors = [
         "name": "Ujjawal"
     }
     ,
+    {
+        "github": "https://github.com/UTRINO-UTKARSH",
+        "name": "Utkarsh"
+    },
 ]
